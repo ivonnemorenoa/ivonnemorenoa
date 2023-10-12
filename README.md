@@ -3,7 +3,7 @@
 <!--
 **ivonnemorenoa/ivonnemorenoa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-![me](https://github.com/ivonnemorenoa/ivonnemorenoa/blob/main/Ivonne%20Moreno.png)
+![Ivonne Moreno](https://github.com/ivonnemorenoa/ivonnemorenoa/assets/100590556/50751c21-5243-4f35-9164-cd9c3341c4ea)
 
 Here are some ideas to get you started:
 
