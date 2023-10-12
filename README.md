@@ -2,7 +2,8 @@
 
 <!--
 **ivonnemorenoa/ivonnemorenoa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-![Texto alternativo](Descargas/IvonneMoreno.png)
+
+<img src="https://i.imgur.com/weNbhGZ.png">
 
 Here are some ideas to get you started:
 
