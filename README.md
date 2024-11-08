@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![](https://komarev.com/ghpvc/?username=ivonnemorenoa&color=ff69b4)
+<!--![](https://komarev.com/ghpvc/?username=ivonnemorenoa&color=ff69b4)--->
 
 <!--
 **ivonnemorenoa/ivonnemorenoa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
