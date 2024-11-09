@@ -2,7 +2,7 @@
 
 [](https://komarev.com/ghpvc/?username=ivonnemorenoa&color=ff69b4)
 
-Some things about me:
+**Some interesting things about me:**
 
 - :computer: I’m currently working on Support Engineer.
 - :chart_with_downwards_trend: I've worked on MAHLE GmbH and CEMEX Corp.
