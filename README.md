@@ -9,6 +9,7 @@
 - :bookmark_tabs: Ask me about Accounts Receivable as Analyst.
 - :chart_with_upwards_trend: I’m currently learning Data Science with Python.
 - :bar_chart: I’m looking for help with Power BI.
-- 📫 How to reach me: ivonne.morenoa@hotmail.com
+- :iphone: Connect with me by email ivonne.morenoa@hotmail.com or if you prefer through [Linkedin](https://www.linkedin.com/in/laura-ivonne-moreno-337a41170/).
+- :busts_in_silhouette: English Knowleadge: L2
 - ⚡ Fun fact: I love the Harry Potter saga!
 
